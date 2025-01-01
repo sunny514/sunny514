@@ -1,1 +1,1 @@
-### Hi there - welcome to my GitHub page! My name is Sunny Sharma and I’m a graduate student in Atmospheric Sciences at the University of Maryland. My research interests lie at the intersection of AI/ML and Atmospheric Science. 
+### Hi there - welcome to my GitHub page! My name is Sunny Sharma and I’m a graduate student in Atmospheric Sciences at the University of Maryland. My research interests are in tropical meteorology and AI/ML. 
